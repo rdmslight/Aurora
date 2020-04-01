@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+<info>
+		<update version="0.1.2">
+            <name>Spells</name>
+            <description>The Spells from Dark ARts.</description>
+            <author url="https://drive.google.com/file/d/1Kr3ZKYy3Me0ZFOhOQAmKBZlB9JUauhW5/view">Jonoman3000</author>
+			<file name="Spells.xml" url="https://raw.githubusercontent.com/th3R3df0xx/Dnd/master/Fate-Forge/Spells.xml" />
+		</update>
+	</info>
